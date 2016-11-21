@@ -1,4 +1,3 @@
-That's was easy right?
 # Introduction
 Android library projects that provides easy to use and extensible Barcode Scanner views based on ZXing and ZBar.
 # Screenshots
